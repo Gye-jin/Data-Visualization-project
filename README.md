@@ -17,21 +17,21 @@ Pythonn - 3.8
 
 ![<MonthBar>](./image/월별바.png)  
 
-![<MonthLine>](./image/월별 선.png)  
+![<MonthLine>](./image/월별선.png)  
 
 ### `요일별 그래프`  
 ![<WeekelyBar>](./image/요일바.png)  
 
 ### `시간대별 그래프`  
-![<TimeGangseo>](./image/강서 시간.png)  
+![<TimeGangseo>](./image/강서시간.png)  
 
-![<TimeGangnam>](./image/강남 시간.png)  
+![<TimeGangnam>](./image/강남시간.png)  
 
-![<TimeOverall>](./image/전체 시간.png)  
+![<TimeOverall>](./image/전체시간.png)  
 
 ## 지도 시각화
 ### `강서 지도` 
-![<Gangseo>](./image/강서 지도.png)  
+![<Gangseo>](./image/강서지도.png)  
 
 ### `강남 지도`  
-![<Gangnam>](./image/강남 지도.png)  
+![<Gangnam>](./image/강남지도.png)  

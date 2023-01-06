@@ -12,22 +12,22 @@ Pythonn - 3.8
 
 ## 그래프 시각화
 
-### `월별 그래프`
-![<MonthPie>](./image/월별파이.png)
+### `월별 그래프`  
+![<MonthPie>](./image/월별파이.png)  
 
-![<MonthBar>](./image/월별바.png)
+![<MonthBar>](./image/월별바.png)  
 
-![<MonthLine>](./image/월별 선.png)
+![<MonthLine>](./image/월별 선.png)  
 
-### `요일별 그래프`
+### `요일별 그래프`  
 ![<WeekelyBar>](./image/요일바.png)  
 
-### `시간대별 그래프`
-![<TimeGangseo>](./image/강서 시간.png)
+### `시간대별 그래프`  
+![<TimeGangseo>](./image/강서 시간.png)  
 
 ![<TimeGangnam>](./image/강남 시간.png)  
 
-![<TimeOverall>](./image/전체 시간.png)
+![<TimeOverall>](./image/전체 시간.png)  
 
 ## 지도 시각화
 ### `강서 지도` 

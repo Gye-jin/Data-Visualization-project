@@ -30,8 +30,8 @@ Python - 3.8
 ![<TimeOverall>](./image/전체시간.png)  
 
 ## 지도 시각화
-### `강서 지도` 
+### `강서구청 이용 현황` 
 ![<Gangseo>](./image/강서지도.png)  
 
-### `강남 지도`  
+### `강남구청 이용 현황`  
 ![<Gangnam>](./image/강남지도.png)  
